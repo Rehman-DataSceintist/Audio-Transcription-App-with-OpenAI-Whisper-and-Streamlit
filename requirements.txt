@@ -1,0 +1,7 @@
+streamlit
+whisper
+numpy
+librosa
+pandas
+openai-whisper
+git+https://github.com/openai/whisper.git
